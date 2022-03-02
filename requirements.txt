@@ -1,0 +1,10 @@
+numpy
+python-binance
+pandas
+dash
+plotly
+matplotlib
+backtrader
+websocket-client
+tabulate
+tqdm

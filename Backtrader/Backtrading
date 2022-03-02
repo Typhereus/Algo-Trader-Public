@@ -1,0 +1,26 @@
+import backtrader
+import datetime
+import BacktradingStrategies as strategies
+import pandas as pd
+
+cerebro = backtrader.Cerebro()
+
+cerebro.broker.setcash(250)
+
+print("Starting $ %.2f" % cerebro.broker.getvalue())
+
+# Get Data
+data = backtrader.feeds.GenericCSVData(dataname='oracle.csv', dtformat='%Y-%m-%d',openinterest=-1, volume=-1)
+
+# Add Data
+cerebro.adddata(data)
+
+# Add Strategy
+cerebro.addstrategy(strategies.CrossOverStrategy)
+
+# Run
+cerebro.run()
+
+print("Final $ %.2f" % cerebro.broker.getvalue())
+
+cerebro.plot(volume=False)

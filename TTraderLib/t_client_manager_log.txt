@@ -1,0 +1,674 @@
+Client set: <binance.client.Client object at 0x000002450A106D60>
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002450A1601F0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002450B375040>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024509FC50D0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002450B3753A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002450B375C70>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101640>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101760>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1016D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160E80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101F40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160D60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1609D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101520>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160B80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101640>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101D60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160E80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101760>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101220>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160D60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1011F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1609D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A160B80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC56A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC56A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC56A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC56A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC56A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5BB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5370>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5490>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC56A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5C10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1011F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC51F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5F70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101610>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101EB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101220>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5700>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1011F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A158F40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1016D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC57F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101EE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5EB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101190>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101040>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5130>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1010D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101E80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A101F40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC51F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1011F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5340>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450A1016D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000024509FC5940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375850>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375B50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3759A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375AC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375AF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375850>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375BE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375B50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3759A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375AC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A6A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37ACD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37AAF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37AB80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A190>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A5B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A520>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A6A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37ACD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37AAF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37AB80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A190>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A5B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A520>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37A6A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B37ACD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B3755E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002450B375670>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Client set: <binance.client.Client object at 0x00000257AA374A00>
+Client set: <binance.client.Client object at 0x0000016B8793B0D0>
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x0000017EBF3161F0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x00000161CBDC4550>
+Client set: <binance.client.Client object at 0x000002186B2C75B0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x0000027664911730>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000027664915B80>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+Client set: <binance.client.Client object at 0x0000020772A03520>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x0000014022569DC0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0850>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140225C45B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0D90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0D60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0EB0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140225C4DC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0760>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0970>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0D90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140225C45B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D09A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D0760>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140225C4DC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D09D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140225C4B80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140223D09D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000140225C4580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x0000022947DE9FA0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000229490F9F70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000229490F9A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000022949070DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000001A50CEFCFA0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A50D06FB20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x00000228AB6F9790>
+Client set: <binance.client.Client object at 0x000001F6877DAC10>
+Client set: <binance.client.Client object at 0x000001F5EA7AAEE0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x0000021F4B822EB0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x0000018E9C478B80>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Client set: <binance.client.Client object at 0x00000293E7D43490>
+Client set: <binance.client.Client object at 0x0000022D08065160>
+Client set: <binance.client.Client object at 0x00000222A175D610>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A1787B20>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A1768880>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A18D3640>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A17B80A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A15851F0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A17619A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A29F9BB0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2A04580>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A29F9280>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A1787C10>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AB4850>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AB7B80>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2ACBEE0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AC1A00>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AB7790>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AC19D0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AC1340>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000222A2ADD850>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AEC790>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2AEA1F0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000222A2B186A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+Client set: <binance.client.Client object at 0x000001A23E3DCCD0>
+Client set: <binance.client.Client object at 0x0000019F0E9BCCD0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FCB13A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0ECA3490>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0ECAC160>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0EB90A30>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FCB16D0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0ECAC640>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0ECACFA0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0ECA3880>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0E9B8D30>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0EB176A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0E9B8700>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000019F0EB2C790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0EB326A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0ECA3760>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0E9C7CA0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0E7E4850>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0EC5E9D0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD02910>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0EC585E0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD16C10>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD1D7C0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD1DF40>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD2E760>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD32130>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD5B550>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD3B580>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD63610>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD63F70>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD49D90>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDB9220>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDB9C10>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FD8E0A0>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDB9D30>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000019F0FDB9A30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDA9E80>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDC5C70>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDCAC10>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDCA790>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDF4130>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0FDFD910>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Max retries exceeded with url: /api/v3/ping (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F0DE6F370>, 'Connection to api.binance.us timed out. (connect timeout=10)'))
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000001A7A8BF0220>
+Client set: <binance.client.Client object at 0x0000014E5080B8B0>
+Client set: <binance.client.Client object at 0x000001EC36FB5D00>
+Client set: <binance.client.Client object at 0x000001F336434D60>
+Client set: <binance.client.Client object at 0x000001CD4A7B6940>
+Client set: <binance.client.Client object at 0x00000132C7D15940>
+Client set: <binance.client.Client object at 0x0000029125C05970>
+Client set: <binance.client.Client object at 0x000001967C288A30>
+Client set: <binance.client.Client object at 0x0000024C3CC13FA0>
+Client set: <binance.client.Client object at 0x000001189F163FD0>
+Client set: <binance.client.Client object at 0x000002D46BF73FA0>
+Client set: <binance.client.Client object at 0x000002D93A282F40>
+Client set: <binance.client.Client object at 0x000001AABB0D3FD0>
+Client set: <binance.client.Client object at 0x00000134A6753FA0>
+Client set: <binance.client.Client object at 0x0000023A18AB5940>
+Client set: <binance.client.Client object at 0x0000025E56639AF0>
+Client set: <binance.client.Client object at 0x00000188B2782FD0>
+Client set: <binance.client.Client object at 0x0000025D20866A60>
+Client set: <binance.client.Client object at 0x0000026C29847B20>
+Client set: <binance.client.Client object at 0x0000016ABA7F8CA0>
+Client set: <binance.client.Client object at 0x0000023C604A5C40>
+Client set: <binance.client.Client object at 0x000001881ED40340>
+Client set: <binance.client.Client object at 0x000002C6C0E602E0>
+Client set: <binance.client.Client object at 0x00000171A3AB12E0>
+Client set: <binance.client.Client object at 0x000001B33E487C10>
+Client set: <binance.client.Client object at 0x0000020537956C10>
+Client set: <binance.client.Client object at 0x000001AF2997C310>
+Client set: <binance.client.Client object at 0x00000176D83D8490>
+Client set: <binance.client.Client object at 0x00000241BF5E84F0>
+Client set: <binance.client.Client object at 0x00000204E8196C10>
+Client set: <binance.client.Client object at 0x000001F8A0DC6C10>
+Client set: <binance.client.Client object at 0x0000022CFEC87520>
+Client set: <binance.client.Client object at 0x00000174F5668F70>
+Client set: <binance.client.Client object at 0x0000026FE748F700>
+Client set: <binance.client.Client object at 0x000002391958EFD0>
+Client set: <binance.client.Client object at 0x000001F4DA801C70>
+Client set: <binance.client.Client object at 0x00000147B7A1F760>
+Client set: <binance.client.Client object at 0x000002324407ED30>
+Client set: <binance.client.Client object at 0x000002162CE78F40>
+Client set: <binance.client.Client object at 0x00000195FFE377F0>
+Client set: <binance.client.Client object at 0x000002658F91E0D0>
+Client set: <binance.client.Client object at 0x000001AA238636D0>
+Client set: <binance.client.Client object at 0x000001EDE2C95820>
+Client set: <binance.client.Client object at 0x0000018F6F735910>
+Client set: <binance.client.Client object at 0x000002199D6E0280>
+Client set: <binance.client.Client object at 0x000001BCE3D98970>
+Client set: <binance.client.Client object at 0x0000022DCB3DDF40>
+Client set: <binance.client.Client object at 0x000001E50BCF1820>
+Client set: <binance.client.Client object at 0x000002479AB30A30>
+Client set: <binance.client.Client object at 0x0000023B57AD2640>
+Client set: <binance.client.Client object at 0x000001BE418E8A30>
+Client set: <binance.client.Client object at 0x000001B7DF7BFEB0>
+Client set: <binance.client.Client object at 0x000001FDB9E40BE0>
+Client set: <binance.client.Client object at 0x000001DF3EAA1610>
+Client set: <binance.client.Client object at 0x000001E6F2361A00>
+Client set: <binance.client.Client object at 0x0000016014F03520>
+Client set: <binance.client.Client object at 0x000002338FB12910>
+Client set: <binance.client.Client object at 0x00000172DA3940D0>
+Client set: <binance.client.Client object at 0x000001F4AC9BFEE0>
+Client set: <binance.client.Client object at 0x00000251D1A52760>
+Client set: <binance.client.Client object at 0x00000288C40A4BE0>
+Client set: <binance.client.Client object at 0x0000027C61F348B0>
+Client set: <binance.client.Client object at 0x000001D81D8E3670>
+Client set: <binance.client.Client object at 0x000001E159263CA0>
+Client set: <binance.client.Client object at 0x000001A73BADBA00>
+Client set: <binance.client.Client object at 0x0000025FF9316BB0>
+Client set: <binance.client.Client object at 0x0000023BBFAEAAC0>
+Client set: <binance.client.Client object at 0x0000020842316AC0>
+Client set: <binance.client.Client object at 0x000002E2648D71F0>
+Client set: <binance.client.Client object at 0x000001F450F98160>
+Client set: <binance.client.Client object at 0x0000029B54CE7670>
+Client set: <binance.client.Client object at 0x000001E86A0A8220>
+Client set: <binance.client.Client object at 0x00000233DED35B20>
+Client set: <binance.client.Client object at 0x000001BD12D55130>
+Client set: <binance.client.Client object at 0x0000017359575880>
+Client set: <binance.client.Client object at 0x0000015F26E0AAC0>
+Client set: <binance.client.Client object at 0x000001EFA1C68640>
+Client set: <binance.client.Client object at 0x000001436C611A60>
+Client set: <binance.client.Client object at 0x000001F9B77819D0>
+Client set: <binance.client.Client object at 0x000002B4DA4F9A60>
+Client set: <binance.client.Client object at 0x0000015768C0F8B0>
+Client set: <binance.client.Client object at 0x0000029AA025F280>
+Client set: <binance.client.Client object at 0x00000210E9BFC940>
+Client set: <binance.client.Client object at 0x0000026C3485FC70>
+Client set: <binance.client.Client object at 0x00000211DCDBF610>
+Client set: <binance.client.Client object at 0x000001BDC09FDA30>
+Client set: <binance.client.Client object at 0x0000019E1D3EF220>
+Client set: <binance.client.Client object at 0x000001575BB802B0>
+Client set: <binance.client.Client object at 0x000002786772ECD0>
+Client set: <binance.client.Client object at 0x0000021969A8DEB0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000001A00F16E1C0>
+Client set: <binance.client.Client object at 0x000002288C25EFD0>
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000001F3F728E640>
+Client set: <binance.client.Client object at 0x000001EFFDD4E130>
+Client set: <binance.client.Client object at 0x00000259E8EDEAF0>
+Client set: <binance.client.Client object at 0x000001FAFEB119D0>
+Client set: <binance.client.Client object at 0x000002AC712D4A30>
+Client set: <binance.client.Client object at 0x0000021FA5BB4A90>
+Client set: <binance.client.Client object at 0x0000027236D00880>
+Client set: <binance.client.Client object at 0x0000026F7FC20BB0>
+Client set: <binance.client.Client object at 0x000001DA7CB57850>
+Client set: <binance.client.Client object at 0x000001E18A8F7850>
+Client set: <binance.client.Client object at 0x000001B6265E7850>
+Client set: <binance.client.Client object at 0x000001BD91AB4F10>
+Client set: <binance.client.Client object at 0x00000246F5694F10>
+Client set: <binance.client.Client object at 0x00000131F14E4E80>
+Client set: <binance.client.Client object at 0x0000024EF7D24E80>
+Client set: <binance.client.Client object at 0x0000014627A64E80>
+Client set: <binance.client.Client object at 0x0000021D46004E80>
+Client set: <binance.client.Client object at 0x000001AF7DA64E80>
+Client set: <binance.client.Client object at 0x0000017F5D692C10>
+Client set: <binance.client.Client object at 0x00000190BBF10190>
+Client set: <binance.client.Client object at 0x00000224C7E44E80>
+Client set: <binance.client.Client object at 0x000002084CBA4B80>
+Client set: <binance.client.Client object at 0x0000027F704C4B80>
+Client set: <binance.client.Client object at 0x000001D314664DF0>
+Client set: <binance.client.Client object at 0x000002CE7FD119D0>
+Client set: <binance.client.Client object at 0x000001F58DC403D0>
+Client set: <binance.client.Client object at 0x0000017095B64DF0>
+Client set: <binance.client.Client object at 0x00000198768819A0>
+Client set: <binance.client.Client object at 0x000001F586D929D0>
+Client set: <binance.client.Client object at 0x000001C47C2F4DF0>
+Client set: <binance.client.Client object at 0x0000022CFBB64DF0>
+Client set: <binance.client.Client object at 0x0000021F4FDEFCA0>
+Client set: <binance.client.Client object at 0x000001FA58BE1CA0>
+Client set: <binance.client.Client object at 0x00000173AE6319D0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x0000028482A04DF0>
+Client set: <binance.client.Client object at 0x000002134A6179A0>
+Client set: <binance.client.Client object at 0x000002CCFF6A79D0>
+Client set: <binance.client.Client object at 0x0000022A53CF79D0>
+Client set: <binance.client.Client object at 0x000001C67741ECD0>
+Client set: <binance.client.Client object at 0x0000016D5113FCD0>
+Client set: <binance.client.Client object at 0x0000023DC85F79D0>
+Client set: <binance.client.Client object at 0x000002D9AB531D30>
+Client set: <binance.client.Client object at 0x00000235122209A0>
+Client set: <binance.client.Client object at 0x000001DB24C4F9D0>
+Client set: <binance.client.Client object at 0x000002C4AEF379D0>
+Client set: <binance.client.Client object at 0x0000015A0F7B79D0>
+Client set: <binance.client.Client object at 0x00000195D30B3B20>
+Client set: <binance.client.Client object at 0x0000016EE8A53B20>
+Client set: <binance.client.Client object at 0x000001CF1CC23B20>
+Client set: <binance.client.Client object at 0x0000029EFA9B0AC0>
+Client set: <binance.client.Client object at 0x000001BC2DEB4AF0>
+Client set: <binance.client.Client object at 0x000001F8FE5DFC70>
+Client set: <binance.client.Client object at 0x0000016EEFD31E80>
+Client set: <binance.client.Client object at 0x000001F0C2AC42B0>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000002503BE586D0>
+Client set: <binance.client.Client object at 0x000002A2B44486D0>
+Client set: <binance.client.Client object at 0x000001EBD5E880D0>
+Client set: <binance.client.Client object at 0x0000028C7D2F80D0>
+Client set: <binance.client.Client object at 0x0000017A2C8D80D0>
+Client set: <binance.client.Client object at 0x0000013E36197580>
+Client set: <binance.client.Client object at 0x0000021357A87580>
+Client set: <binance.client.Client object at 0x0000027E97212D00>
+Client set: <binance.client.Client object at 0x0000022CC2651130>
+Client set: <binance.client.Client object at 0x0000029FD6241F40>
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Client set: <binance.client.Client object at 0x00000253DB302AF0>
+Client set: <binance.client.Client object at 0x0000021CC96B21F0>
+Client set: <binance.client.Client object at 0x000001A077912130>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000001C920047C70>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000002088CD35BE0>
+Client set: <binance.client.Client object at 0x000002026ABC7F70>
+Client set: <binance.client.Client object at 0x0000023B58714EE0>
+Client set: <binance.client.Client object at 0x000001C1D6AA48B0>
+Client set: <binance.client.Client object at 0x00000186C23F2BE0>
+Client set: <binance.client.Client object at 0x000001797E276D90>
+Client set: <binance.client.Client object at 0x0000025B158F2EE0>
+Client set: <binance.client.Client object at 0x000002465C8330A0>
+Client set: <binance.client.Client object at 0x0000020325E870A0>
+Client set: <binance.client.Client object at 0x0000024886096FA0>
+Client set: <binance.client.Client object at 0x000001D692325640>
+Client set: <binance.client.Client object at 0x000001D7CA924A60>
+Client set: <binance.client.Client object at 0x000002E1F8574C70>
+Client set: <binance.client.Client object at 0x000001D7A6804130>
+Client set: <binance.client.Client object at 0x000002B1A4F41F70>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x00000149769E7580>
+Client set: <binance.client.Client object at 0x00000277287E7790>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x000001DC8A665970>
+Client set: <binance.client.Client object at 0x000001ECD3DC5970>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+Client set: <binance.client.Client object at 0x00000178706A2130>
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)
+('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+HTTPSConnectionPool(host='api.binance.us', port=443): Read timed out. (read timeout=10)

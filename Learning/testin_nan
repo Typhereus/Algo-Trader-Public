@@ -1,0 +1,15 @@
+a = [2.5,2.3,31.2,53.2]
+
+av = sum(a) / len(a)
+
+added_up = 0.0
+new_array = []
+
+for i in range(len(a)):
+    index = i + 1
+
+    added_up += a[i]
+
+    new_array.append(added_up / index)
+
+print(new_array)

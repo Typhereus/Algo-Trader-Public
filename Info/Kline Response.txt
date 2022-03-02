@@ -1,0 +1,12 @@
+0    1499040000000,      // Open time
+1   "0.01634790",       // Open
+2    "0.80000000",       // High
+3    "0.01575800",       // Low
+4    "0.01577100",       // Close
+5    "148976.11427815",  // Volume
+6    1499644799999,      // Close time
+7    "2434.19055334",    // Quote asset volume
+8    308,                // Number of trades
+9    "1756.87402397",    // Taker buy base asset volume
+10    "28.46694368",      // Taker buy quote asset volume
+11    "17928899.62484339" // Ignore.
